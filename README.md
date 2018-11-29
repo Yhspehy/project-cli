@@ -19,4 +19,11 @@ node ./lib/utils/name.js <your project name>
 # complete your main code
 # add your commands in ./lib/cmd
 # you can follow the format of /cmd/dev
+
+# publish your module to npm
+
+# npm install your module in your project
+
+# use project-cli in package.json/script
+
 ```
